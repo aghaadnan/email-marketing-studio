@@ -91,6 +91,8 @@ Notes:
 
 Every email is signed by Jordan Hayes, Account Manager, Epatchy (practice name until the client picks a real person).
 
+Every one of the 8 emails (1, 2, 3a, 3b, 3c, 4, 5, 6) also ends with the footer: 10685-B Hazelhurst Dr. #42429, Houston, TX 77043, plus a working unsubscribe link.
+
 ## 7. Success metrics
 
 - **Primary KPI:** 40 quote requests by 2027-01-03.
