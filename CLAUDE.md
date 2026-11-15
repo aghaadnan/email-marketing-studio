@@ -15,6 +15,8 @@ This studio plans and writes B2B email campaigns for **Epatchy** (epatchy.com), 
 - `campaigns/` - one folder per campaign: plan, emails, per-group versions
 - `notes/` - research and working notes
 
+@brand/voice.md
+
 ## Rules
 - Write in plain English.
 - Never send email to real people.
