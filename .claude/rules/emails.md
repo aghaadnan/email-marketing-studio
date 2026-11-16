@@ -18,11 +18,14 @@ These rules apply to every email file in any campaign. Each email file must foll
 - Include exactly one main link, written as `[Request a quote](https://epatchy.com)`. Use the quote request page address once the client confirms it.
 - Follow `brand/voice.md`: plain English, our words, and none of the words we avoid.
 - Do not state prices, minimum order quantities or delivery times. Say "request a quote" instead.
+- Do not promise durability, exact matches, speed or services the client has not confirmed (for example "built to last", "handles weather", "quick", "design kept on file"). Describe what the product is instead.
 - "Over 8 years" is the only form of the in-business claim allowed. Never use a bigger number.
 
 ## Ending
 
-End every email with the sign-off from `brand/voice.md`:
+End every email with the tagline on its own line, then the sign-off from `brand/voice.md`:
+
+Bold. Crafted.
 
 Jordan Hayes
 Account Manager, Epatchy

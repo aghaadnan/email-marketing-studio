@@ -13,6 +13,8 @@ Tell us what you have in mind and we will send you a quote.
 
 [Request a quote](https://epatchy.com)
 
+Bold. Crafted.
+
 Jordan Hayes
 Account Manager, Epatchy
 

@@ -9,7 +9,7 @@ If custom patches are on your list, we are glad to help. We make chenille, woven
 
 You can request a quote whenever it suits you. Share your idea, even if it is rough, and we will take it from there.
 
-Thank you for reading our emails this month. Wishing you and your crew a good new year.
+Thank you for your time. Wishing you and your crew a good new year.
 
 [Request a quote](https://epatchy.com)
 

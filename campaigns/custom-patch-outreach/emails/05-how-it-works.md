@@ -15,6 +15,8 @@ Step one is the only one that needs you today.
 
 [Request a quote](https://epatchy.com)
 
+Bold. Crafted.
+
 Jordan Hayes
 Account Manager, Epatchy
 
