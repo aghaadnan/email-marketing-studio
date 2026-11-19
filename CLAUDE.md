@@ -19,5 +19,5 @@ This studio plans and writes B2B email campaigns for **Epatchy** (epatchy.com), 
 
 ## Rules
 - Write in plain English.
-- Never send email to real people.
+- Never send email to real people. The one exception is sending through Resend (set up in `.mcp.json`), and only to Resend's test addresses (ending in @resend.dev) and to the account owner's own email address. A guard will enforce this in the next step.
 - Ask me before deleting anything.
